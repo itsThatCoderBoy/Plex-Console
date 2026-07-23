@@ -10,6 +10,8 @@ I initially was thinking of doing something exactly like his, but then realised 
  - Modular snap-on system
  - Completely different display (ok this is an entirely different thing)
 
+Thank you so much to Hack Club and Forge for making this whole thing possible! This really is an amazing oppurtunity.
+
 ## What is it?
 This project firstly involves a devboard. The reason it isn't a single board with the I/O and everything is because the main devboard is one of the more expensive things (~$20-25 including shipping for components), and I wanted you to just have one for all of the possible modules. (Also because I wanted a concrete starting point)\
 The second part of the project is the modules. They snap onto the devboard with magnets and communicate with pads on the back of both. Modules can do anything, as long as you code it right and have enough I/O pins!
@@ -29,10 +31,10 @@ After that, I move on to the main idea: The Nintendon't GameMan. This is basical
 ![PCB Layout of Devboard](Images/DevboardPCB.png)
 
 *Built-in KiCad 3D Model Front*\
-![Built-in KiCad 3D Model Front of Devboard](Images/DevboardPCB.png)
+![Built-in KiCad 3D Model Front of Devboard]()
 
 *Built-in KiCad 3D Model Back*\
-![Built-in KiCad 3D Model Back of Devboard](Images/DevboardPCB.png)
+![Built-in KiCad 3D Model Back of Devboard]()
 
 
 ### *Tester Module*
