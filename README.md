@@ -20,6 +20,7 @@ The second part of the project is the modules. They snap onto the devboard with 
 I currently have the devboard designed and ready to ship off to JLCPCB when I get funding!\
 The first module that I am going to create is just a simple screen made of Charlie-Plexed LEDS. This is mainly just to practice coding, get the connection between the devboard and module hammered down, and make sure that the devboard works of course.\
 After that, I move on to the main idea: The Nintendon't GameMan. This is basically a Gameboy-like little pocket console with famous games like Tesris, Pac-Boy, and maybe even Toader! I haven't gotten to this point yet of course, but I am moving swiftly along.
+Last but not least, if I have any extra time, I'd eventually like to make other attachments (feel free to leave suggestions).
 
 ## Current Progress:
 
