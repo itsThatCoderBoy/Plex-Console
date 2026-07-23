@@ -26,6 +26,7 @@ Bruh I just spent like 45 minutes on making a 5v power supply for the charger. T
 # July 22 - Finished Devboard Schematic, Finished Devboard PCB
 
 I'm doing very well so far! I've decided to put the storage module on the attachment board, just so that you can only play games that are compatible with the module to prevent letting the magic smoke out.\
+Made minor changes to schematic (mainly changing the charging rate resistor value)\
 I want to put the LiPo battery on the board, but the only way I can do that and not extend the board dramatically is to put it on the bottom. There is space, but that would make it so that I'd have to add a connector to the attachment pads, and I don't know how I'm going to do that.\
 It might be possible to do something like an extender?? I don't know.\
 I can't figure out how to get a custom footprint to only appear on the bottom leyer. Time to Google! - Figured it out; I didn't have bottom footprints visible lol.\
@@ -48,10 +49,10 @@ Devboard PCB layout finished! Going to get a quote from PCBWay to see what that 
  - Route Everything But Bottom Pads :D
  - Route Bottom Pads :D
 
-Note: :D means that I did that task\
+Note: :D means that I did that task
 
 **Total time spent: ~5.5 Hours**
 
-![Connector](Images/connector.png)
+![Connector](Images/Connector.png)
 ![Schematic](Images/PCBSchemDay2.svg)
 ![PCB](Images/DevboardPCB.png)
