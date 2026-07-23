@@ -66,4 +66,4 @@ I've also been working on checking everything on the devboard to see if there ar
 
 **Total time spent: ~2.3 Hours**
 
-![BOM](Images/DevboardBOM)
+![BOM](Images/DevboardBOM.png)
