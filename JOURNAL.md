@@ -23,7 +23,7 @@ Bruh I just spent like 45 minutes on making a 5v power supply for the charger. T
 
 ![Schematic](Images/PCBSchemDay1.svg)
 
-# July 22 - Finished Devboard Schematic, Finished Devboard PCB
+# July 22 - Finished Devboard Schematic, Finished Devboard PCB, Worked on README
 
 I'm doing very well so far! I've decided to put the storage module on the attachment board, just so that you can only play games that are compatible with the module to prevent letting the magic smoke out.\
 Made minor changes to schematic (mainly changing the charging rate resistor value)\
@@ -56,3 +56,7 @@ Note: :D means that I did that task
 ![Connector](Images/Connector.png)
 ![Schematic](Images/PCBSchemDay2.svg)
 ![PCB](Images/DevboardPCB.png)
+
+# July 23 - BOM & Checking Everything on Devboard
+
+Today was a much shorter day than yesterday, but I did get the BOM for the devboard done, which is very important. 

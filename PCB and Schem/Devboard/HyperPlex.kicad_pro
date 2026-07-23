@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "./",
+      "plot": "Final_Devboard_GBRs/",
       "specctra_dsn": "",
       "vrml": ""
     },

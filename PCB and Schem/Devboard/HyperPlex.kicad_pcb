@@ -123,7 +123,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "./")
+			(outputdirectory "Final_Devboard_GBRs/")
 		)
 	)
 	(footprint "Diode_SMD:D_0603_1608Metric"
@@ -132,7 +132,7 @@
 		(at 42.4625 73)
 		(descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "diode")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 2.0375 0 0)
 			(layer "F.SilkS")
 			(uuid "264a0636-7844-48f8-beb4-44bf2ff9bba4")
@@ -355,7 +355,7 @@
 		(at 37.5 60)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R14"
+		(property "Reference" "R4"
 			(at 0 1 0)
 			(layer "F.SilkS")
 			(uuid "f36e9fe2-e236-4eca-8415-06702319e168")
@@ -513,7 +513,7 @@
 		(at 39.5 76.937501 90)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q2"
+		(property "Reference" "Q1"
 			(at 0 -2.4 90)
 			(layer "F.SilkS")
 			(uuid "d014d9fd-95fc-4e07-a497-7004c66e8432")
@@ -921,7 +921,7 @@
 		(at 39.605895 70.5 -90)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R6"
+		(property "Reference" "R1"
 			(at 0 -0.894105 90)
 			(layer "F.SilkS")
 			(uuid "04f5f741-5717-4c89-8f40-86e65379e272")
@@ -1081,7 +1081,7 @@
 		(at 39.105895 64.75 90)
 		(descr "C&K Components SPST SMD PTS647 Series 4.5mm Tact Switch, 3.8mm Height, see https://www.ckswitches.com/media/2567/pts647.pdf")
 		(tags "SPST Button Switch")
-		(property "Reference" "SW4"
+		(property "Reference" "SW1"
 			(at 0 -0.105895 90)
 			(layer "F.SilkS")
 			(uuid "7c45574d-8d6d-4d5e-8c20-b4ade55afab8")
@@ -1487,7 +1487,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U3"
-			(at 0 -2.4 0)
+			(at 0 2.5 0)
 			(layer "F.SilkS")
 			(uuid "85770335-deb3-4ca5-8d42-fe7594c5033b")
 			(effects
@@ -2276,7 +2276,7 @@
 		(at 41.355895 70.5 -90)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R5"
+		(property "Reference" "R1"
 			(at 0 -1.144105 90)
 			(layer "F.SilkS")
 			(uuid "b8e76c92-2a73-42bb-bbbc-cb0058beb45c")
@@ -2436,7 +2436,7 @@
 		(at 43.605895 70.5 -90)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R4"
+		(property "Reference" "R1"
 			(at 0 -0.894105 90)
 			(layer "F.SilkS")
 			(uuid "4c36d62d-d72b-4364-9aa7-517b8ca5d8a7")
@@ -2596,7 +2596,7 @@
 		(at 35.575 58.25)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R15"
+		(property "Reference" "R1"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "7a0de383-66f4-4f0a-b284-4bfa20fe7915")
@@ -2754,7 +2754,7 @@
 		(at 34.105895 72 -90)
 		(descr "Sub-miniature slide switch, right-angle, http://www.ckswitches.com/media/1422/js.pdf")
 		(tags "switch spdt")
-		(property "Reference" "SW3"
+		(property "Reference" "SW2"
 			(at 0.25 -0.144105 90)
 			(layer "F.SilkS")
 			(uuid "db8b84a6-0db6-40e0-911f-9bbe67dd3e43")
@@ -3267,7 +3267,7 @@
 		(at 37.25 79.75 180)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R1"
+		(property "Reference" "R4"
 			(at 0 1.25 0)
 			(layer "F.SilkS")
 			(uuid "4d1c449f-c35c-4a52-a35e-3684635d6dda")
@@ -3430,6 +3430,7 @@
 		(property "Reference" "REF**"
 			(at 0 -2.11 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "0cde601f-fab8-49c1-bef9-e9680452c17f")
 			(effects
 				(font
@@ -3889,7 +3890,7 @@
 		(at 36.187501 84.25 180)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "U6"
+		(property "Reference" "U3"
 			(at 0.187501 -2.4 0)
 			(layer "F.SilkS")
 			(uuid "b38a88c0-bc07-43af-ba74-61f59a0b9341")
@@ -4271,7 +4272,7 @@
 		(at 42.45 83.2)
 		(descr "SOIC, 8 Pin (http://www.allegromicro.com/~/media/Files/Datasheets/A4950-Datasheet.ashx#page=8)")
 		(tags "SOIC SO")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 0 -3.4 0)
 			(layer "F.SilkS")
 			(uuid "7e62ff3c-8ec2-42fa-9a9e-c593b4bb40fc")
@@ -4778,6 +4779,7 @@
 		(property "Reference" "REF**"
 			(at 0 -2.11 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "e51f3959-358f-441b-a602-25fa2a0f1cfa")
 			(effects
 				(font
@@ -4993,7 +4995,7 @@
 		(at 45.355895 70.5 -90)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R3"
+		(property "Reference" "R1"
 			(at 0 -0.894105 90)
 			(layer "F.SilkS")
 			(uuid "c6b5faab-6dc4-44d7-ada3-d23c4839673f")
@@ -5666,8 +5668,8 @@
 		(at 46.25 86.75)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
-		(property "Reference" "R12"
-			(at -3.25 0 0)
+		(property "Reference" "R3"
+			(at -2.75 0 0)
 			(layer "F.SilkS")
 			(uuid "61cf99de-ab2e-4084-8663-6d17fd506a19")
 			(effects
@@ -7537,7 +7539,7 @@
 		(at 50.75 65)
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
-		(property "Reference" "Q3"
+		(property "Reference" "Q1"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
 			(uuid "519f3d61-d47e-4cab-945b-c5bfbc4c1c99")
@@ -8441,6 +8443,29 @@
 				(thickness 0.1)
 			)
 			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 50.25 81.25 0)
+		(layer "F.SilkS")
+		(uuid "74d58baf-b16c-4ee8-9010-d23a653bd80b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "R3"
+		(at 41.25 86.75 0)
+		(layer "F.SilkS")
+		(uuid "413e7c74-f33a-47ab-85b5-5e4d20fdd61f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
 		)
 	)
 	(gr_text "B3"
