@@ -22,4 +22,4 @@ After that, I move on to the main idea: The Nintendon't GameMan. This is basical
 ## Current Progress
 
 ### *Devboard*
-![Schematic of Devboard](images/PCBSchemDay2.svg)
+![Schematic of Devboard](Images/PCBSchemDay2.svg)
