@@ -21,15 +21,16 @@ Bruh I just spent like 45 minutes on making a 5v power supply for the charger. T
 
 **Total time spent: ~2.75 Hours**
 
-![pcb layout](images/PCBSchemDay1.svg)
+![Schematic](images/PCBSchemDay1.svg)
 
-# July 22 - Finished Devboard Schematic, Started on PCB & BOM
+# July 22 - Finished Devboard Schematic, Finished Devboard PCB
 
 I'm doing very well so far! I've decided to put the storage module on the attachment board, just so that you can only play games that are compatible with the module to prevent letting the magic smoke out.
 I want to put the LiPo battery on the board, but the only way I can do that and not extend the board dramatically is to put it on the bottom. There is space, but that would make it so that I'd have to add a connector to the attachment pads, and I don't know how I'm going to do that.
 It might be possible to do something like an extender?? I don't know.
 I can't figure out how to get a custom footprint to only appear on the bottom leyer. Time to Google! - Figured it out; I didn't have bottom footprints visible lol.
 I had an idea! What if I just kind of mount the lipo in top of the board? The only thing with that would be that the buttons would be blocked. Not sure.
+Devboard PCB layout finished! Going to get a quote from PCBWay to see what that expense will be. Probably will see in the morning.
 
 **TO-DO (Schematic):**
  - LDO Filter :D
@@ -43,6 +44,14 @@ I had an idea! What if I just kind of mount the lipo in top of the board? The on
 **TO-DO (Devboard PCB):**
  - Organise Components :D
  - Make Footprint for Connector :D
- - Decide Where LiPo Goes
+ - Decide Where LiPo Goes - I think it will just be in the 3D-Printed case somewhere
  - Route Everything But Bottom Pads :D
- - Route Bottom Pads
+ - Route Bottom Pads :D
+
+Note: :D means that I did that task
+
+**Total timne spent: ~5.5 Hours**
+
+![Connector](images/connector.png)
+![Schematic](images/PCBSchemDay2.svg)
+![PCB](images/DevboardPCB.png)
