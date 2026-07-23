@@ -43,3 +43,8 @@ Nothing :(
 
 ### *Nintendon't GameMan*
 Nothing :(
+
+## BOM
+
+### *Devboard*
+![DevboardBOM](Images/DevboardBOM.png)

@@ -59,4 +59,11 @@ Note: :D means that I did that task
 
 # July 23 - BOM & Checking Everything on Devboard
 
-Today was a much shorter day than yesterday, but I did get the BOM for the devboard done, which is very important. 
+Today was a much shorter day than yesterday, but I did get the BOM for the devboard done, which is very important.\
+I've been mainly looking at various websites (LCSC, ALiExpress, JLCPCB, etc.) to see which can offer the best prices. I've mainly found that LCSC can offer really good prices for electronic components. I am getting the PCB from JLC because it was like 3 dollars cheaper.\
+I will be sending my BOM to the Slack to see if I'm getting scammed, thoough, so hopefully I get good deals.\
+I've also been working on checking everything on the devboard to see if there are any glaring issues, and so far I haven't seen any.
+
+**Total time spent: ~ Hours**
+
+![BOM](Images/DevboardBOM)
