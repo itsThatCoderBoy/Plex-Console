@@ -31,7 +31,7 @@ I want to put the LiPo battery on the board, but the only way I can do that and 
 It might be possible to do something like an extender?? I don't know.\
 I can't figure out how to get a custom footprint to only appear on the bottom leyer. Time to Google! - Figured it out; I didn't have bottom footprints visible lol.\
 I had an idea! What if I just kind of mount the lipo in top of the board? The only thing with that would be that the buttons would be blocked. Not sure.\
-Devboard PCB layout finished! Going to get a quote from PCBWay to see what that expense will be. Probably will see in the morning.\
+Devboard PCB layout finished! Going to get a quote from PCBWay/JLCPCB to see what that expense will be. Probably will see in the morning.\
 
 **TO-DO (Schematic):**
  - LDO Filter :D
@@ -62,7 +62,8 @@ Note: :D means that I did that task
 Today was a much shorter day than yesterday, but I did get the BOM for the devboard done, which is very important.\
 I've been mainly looking at various websites (LCSC, ALiExpress, JLCPCB, etc.) to see which can offer the best prices. I've mainly found that LCSC can offer really good prices for electronic components. I am getting the PCB from JLC because it was like 3 dollars cheaper.\
 I will be sending my BOM to the Slack to see if I'm getting scammed, thoough, so hopefully I get good deals.\
-I've also been working on checking everything on the devboard to see if there are any glaring issues, and so far I haven't seen any.
+I've also been working on checking everything on the devboard to see if there are any glaring issues, and so far I haven't seen any.\
+After asking a couple questions, I've found that it would be a better idea to have each stage as its own project. This one, then, is about ready for a review, all I have to do is make a cover image!
 
 **Total time spent: ~2.3 Hours**
 
