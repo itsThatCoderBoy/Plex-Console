@@ -65,6 +65,6 @@ I will be sending my BOM to the Slack to see if I'm getting scammed, thoough, so
 I've also been working on checking everything on the devboard to see if there are any glaring issues, and so far I haven't seen any.\
 After asking a couple questions, I've found that it would be a better idea to have each stage as its own project. This one, then, is about ready for a review, all I have to do is make a cover image!
 
-**Total time spent: ~2.3 Hours**
+**Total time spent: ~3.3 Hours**
 
 ![BOM](Images/DevboardBOM.png)
