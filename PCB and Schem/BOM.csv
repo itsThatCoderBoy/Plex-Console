@@ -1,25 +1,25 @@
-Devboard BOM;;;;;;;;
-;;;;;;;;
-Components:;;;;;;Just For Me;;
-Reference;Value;Qty;Footprint;Shop Link:;Shop Details:;Will I need to buy it?;Shipping? (^ = ships with);Coupon?
-D1;LED (Any Color);2;D_0603 (1608 Metric);lcsc.com/product-detail/C19273151.html;LCSC - $ 0.59 for 100;Y;$12.57 (includes Handling fee);N
-J1;USB-C 2.0 16pin Jack;1;USB-C Receptacle G-Switch GT-USB-7010ASV;lcsc.com/product-detail/C5178539.html;LCSC - $ 0.36 for 5;Y;^;N
-Q1;2N3904 Transistor;3;SOT-23;lcsc.com/product-detail/C18536.html;LCSC - $ 0.29 for 25;N;;
-R1;500Ω;5;R_0603 (1608 Metric);lcsc.com/product-detail/C6207671.html;LCSC - $ 0.63 for 20;N;;
-R2;1.5kΩ;1;R_0603 (1608 Metric);lcsc.com/product-detail/C2930050.html;LCSC - $ 0.29 for 100;N;;
-R3;5.1kΩ;2;R_0603 (1608 Metric);lcsc.com/product-detail/C2907044.html;LCSC - $ 0.28 for 100;N;;
-R4;10kΩ;2;R_0603 (1608 Metric);lcsc.com/product-detail/C2906982.html;LCSC - $ 0.42 for 100;N;;
-SW1;Push-Button Switch;2;SW SPST PTS647 Sx38;lcsc.com/product-detail/C36938886.html;LCSC - $ 1.01 for 50;Y;^;N
-SW2;SPDT Slide Switch;2;SW SPDT CK JS102011SAQN;lcsc.com/product-detail/C49023767.html;LCSC - $ 0.39 for 5;Y;^;N
-U1;CH32V203C8T6;1;LQFP-48 7x7mm P0.5mm;lcsc.com/product-detail/C3001172.html;LCSC - $ 0.87 for 1;Y;^;N
-U2;TP4056-42-ESOP8;1;SOIC-8-1EP 3.9x4.9mm P1.27mm EP2.41x3.3mm ThermalVias;lcsc.com/product-detail/C16581.html;LCSC - $ 0.93 for 5;Y;^;N
-U3;XC6206P302MR-G;1;SOT-23;lcsc.com/product-detail/C9972.html;LCSC - $ 0.81 for 5;Y;^;N
-BATTERY;802045 800 mAh;1;8 mm x 20 mm x 45 mm;ebay.com/itm/254702348768;Ebay - $ 7.22 for 1;Y;$2.99;N
-;;;;;;;;
-Items:;;;;;;;;
-PCB;;1;;jlcpcb.com;JLCPCB - $5.10 for 5;Y;$3.22;Y, -$ 5
-Solder Paste;;1;;aliexpress.us/item/3256809162577166.html;AliExpress - $ 4.37 for 10g;Y;Free;Y, -$ 3.38
-;;;;;;;;
-Total (For Me): ;$ 17 @ LCSC, $ 10.21 @ Ebay, $ 1.07 @ AliExpress, $ 3.22 @ JLCPCB = $ 31.50*;;;;;;;
-Total Raw: ;$ 19.37 @ LCSC, $ 10.21 @ Ebay, $ 4.37 @ AliExpress, $ 8.22 @ JLCPCB = $ 39.88*;;;;;;;
-;* Note: There may be taxes, so add a little bit to cover that;;;;;;;
+Devboard BOM,,,,,,,,
+,,,,,,,,
+Components:,,,,,,Just For Me,,
+Reference,Value,Qty,Footprint,Shop Link:,Shop Details:,Will I need to buy it?,Shipping? (^ = ships with),Coupon?
+D1,LED (Any Color),2,D_0603 (1608 Metric),lcsc.com/product-detail/C19273151.html,LCSC - $ 0.59 for 100,Y,$12.57 (includes Handling fee),N
+J1,USB-C 2.0 16pin Jack,1,USB-C Receptacle G-Switch GT-USB-7010ASV,lcsc.com/product-detail/C5178539.html,LCSC - $ 0.36 for 5,Y,^,N
+Q1,2N3904 Transistor,3,SOT-23,lcsc.com/product-detail/C18536.html,LCSC - $ 0.29 for 25,N,,
+R1,500Ω,5,R_0603 (1608 Metric),lcsc.com/product-detail/C6207671.html,LCSC - $ 0.63 for 20,N,,
+R2,1.5kΩ,1,R_0603 (1608 Metric),lcsc.com/product-detail/C2930050.html,LCSC - $ 0.29 for 100,N,,
+R3,5.1kΩ,2,R_0603 (1608 Metric),lcsc.com/product-detail/C2907044.html,LCSC - $ 0.28 for 100,N,,
+R4,10kΩ,2,R_0603 (1608 Metric),lcsc.com/product-detail/C2906982.html,LCSC - $ 0.42 for 100,N,,
+SW1,Push-Button Switch,2,SW SPST PTS647 Sx38,lcsc.com/product-detail/C36938886.html,LCSC - $ 1.01 for 50,Y,^,N
+SW2,SPDT Slide Switch,2,SW SPDT CK JS102011SAQN,lcsc.com/product-detail/C49023767.html,LCSC - $ 0.39 for 5,Y,^,N
+U1,CH32V203C8T6,1,LQFP-48 7x7mm P0.5mm,lcsc.com/product-detail/C3001172.html,LCSC - $ 0.87 for 1,Y,^,N
+U2,TP4056-42-ESOP8,1,SOIC-8-1EP 3.9x4.9mm P1.27mm EP2.41x3.3mm ThermalVias,lcsc.com/product-detail/C16581.html,LCSC - $ 0.93 for 5,Y,^,N
+U3,XC6206P302MR-G,1,SOT-23,lcsc.com/product-detail/C9972.html,LCSC - $ 0.81 for 5,Y,^,N
+BATTERY,802045 800 mAh,1,8 mm x 20 mm x 45 mm,ebay.com/itm/254702348768,Ebay - $ 7.22 for 1,Y,$2.99,N
+,,,,,,,,
+Items:,,,,,,,,
+PCB,,1,,jlcpcb.com,JLCPCB - $5.10 for 5,Y,$3.22,"Y, -$ 5"
+Solder Paste,,1,,aliexpress.us/item/3256809162577166.html,AliExpress - $ 4.37 for 10g,Y,Free,"Y, -$ 3.38"
+,,,,,,,,
+Total (For Me): ,"$ 17 @ LCSC, $ 10.21 @ Ebay, $ 1.07 @ AliExpress, $ 3.22 @ JLCPCB = $ 31.50*",,,,,,,
+Total Raw: ,"$ 19.37 @ LCSC, $ 10.21 @ Ebay, $ 4.37 @ AliExpress, $ 8.22 @ JLCPCB = $ 39.88*",,,,,,,
+,"* Note: There may be taxes, so add a little bit to cover that",,,,,,,
