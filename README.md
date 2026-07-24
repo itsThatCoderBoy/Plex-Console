@@ -1,7 +1,7 @@
 # Plex Console Stage 1
 ## A small devboard that attaches to modules to give endless emulation possibilities!
 The way it works is simple: Have the main board, attach it to whatever output device is needed for the game you want to play, and bam! You have a small pocket-sized devboard with endless possibilities of emulation. All you have to do is make your attachment board, code the game, and snap on the main board!\
-**This is Stage 1 of this project; it is just the Devboard. After I build this project and it (hopefully) works, I am going to move on to a tester module.**\
+**This is Stage 1 of this project; it is just the Devboard. After I build this project and it (hopefully) works, I am going to add a case and move on making a tester module.**\
 This is my first project as part of Hack Club, and I certainly hope it isn't my last! This has already been so fun, even just a couple hours in.
 
 ## Why & How
